@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "firstname": "Ali",
+      "lastname": "Hider",
+      "email": "ali@abc.com",
+      "phone": "112233",
+      "id": 1
+    },
+    {
+      "phone": "666666",
+      "id": 2,
+      "lastname": "Yuris",
+      "firstname": "Dennis",
+      "email": "d-y@abc.com"
+    },
+    {
+      "firstname": "Sarah",
+      "lastname": "Mickel",
+      "email": "s12@abc.com",
+      "phone": "123456",
+      "id": 3
+    },
+    {
+      "firstname": "Emma",
+      "lastname": "Theo",
+      "email": "emm@abc.com",
+      "phone": "987654",
+      "id": 4
+    }
+  ]
+}
